@@ -5,4 +5,4 @@ After:
 ---
 SilverStripe\Admin\LeftAndMain:
   extra_requirements_javascript:
-    - 'entidi/silverstripe-gridfieldaddfromlist:client/gridfieldaddfromlist.js'
+    - 'moritz-sauer-13/silverstripe-gridfieldaddfromlist:client/gridfieldaddfromlist.js'
