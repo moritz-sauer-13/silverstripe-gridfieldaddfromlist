@@ -1,3 +1,5 @@
+Basic Fork from entidi/silverstripe-gridfieldaddfromlist with SS5 Support.
+
 SilverStripe GridFieldAddFromList
 =================================
 
